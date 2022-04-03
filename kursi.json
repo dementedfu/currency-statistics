@@ -5,13 +5,13 @@
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-          { "type": "string", "index": 0, "name": "Name" },
-		      { "type": "float", "index": 1, "name": "Curs($)" },
+                { "type": "string", "index": 0, "name": "Name" },
+		{ "type": "float", "index": 1, "name": "Curs($)" },
 	      	{ "type": "float", "index": 2, "name": "Dolyaoborota(%)" },
 	      	{ "type": "float", "index": 3, "name": "StavkaCB(%)" },
 	      	{ "type": "float", "index": 4, "name": "VVP(trl$)" },
-	      	{ "type": "float", "index": 5, "name": "VVPnadushu(trl$)" },
-	      	{ "type": "float", "index": 6, "name": "Srednayazp($)" },
+	      	{ "type": "integer", "index": 5, "name": "VVPnadushu(trl$)" },
+	      	{ "type": "integer", "index": 6, "name": "Srednayazp($)" },
 	      	{ "type": "float", "index": 7, "name": "Vneshniydolg(trl$)" }
 	      	
 	],
