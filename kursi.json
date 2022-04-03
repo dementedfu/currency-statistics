@@ -2,7 +2,7 @@
 	"file": "https://raw.githubusercontent.com/dementedfu/currency-statistics/main/TERVER1_tablitsa.csv",
 	"name": "currency statistics",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
                 { "type": "id", "index": 0, "name": "Name" },
