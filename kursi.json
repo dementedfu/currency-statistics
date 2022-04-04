@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/dementedfu/currency-statistics/main/TERVER1_tablitsa.csv",
+	"file": "https://raw.githubusercontent.com/dementedfu/currency-statistics/main/2VARTerver.csv",
 	"name": "currency statistics",
 	"header": 0,
 	"separator": ";",
@@ -16,6 +16,6 @@
 	      	
 	],
 	"sets": [
-	      	{ "format": "binary", "start": 8, "end": 18 }
+	      	{ "format": "binary", "start": 8, "end": 28 }
 	]
 }
