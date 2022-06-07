@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/dementedfu/currency-statistics/main/2VARTerver.csv",
+	"name": "currency statistics",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+                { "type": "id", "index": 0, "name": "Name" },
+		{ "type": "float", "index": 1, "name": "Curs($)" },
+	      	{ "type": "float", "index": 2, "name": "StavkaCB(%)" }
+	      	
+	]
+}
